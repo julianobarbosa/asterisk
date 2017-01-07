@@ -35,7 +35,7 @@ PACKAGES_RH="$PACKAGES_RH openldap-devel gmime22-devel sqlite2-devel mysql-devel
 PACKAGES_SUSE="automake gcc gcc-c++ ncurses-devel libopenssl-devel libxml2-devel unixODBC-devel libcurl-devel libogg-devel libvorbis-devel speex-devel"
 PACKAGES_SUSE="$PACKAGES_SUSE spandsp-devel freetds-devel net-snmp-devel iksemel-devel libcorosync-devel newt-devel popt-devel libtool-ltdl-devel lua-devel"
 PACKAGES_SUSE="$PACKAGES_SUSE sqlite3-devel radiusclient-ng-devel portaudio-devel postgresql-devel libneon-devel libical-devel"
-PACKAGES_SUSE="$PACKAGES_SUSE openldap2-devel gmime-devel libmysqld-devel libmysqld-devel bluez-devel pulseaudio-module-jack libgsm-devel libedit-devel libuuid-devel"
+PACKAGES_SUSE="$PACKAGES_SUSE openldap2-devel gmime-devel libmysqld-devel libmysqld-devel bluez-devel libjack-devel libgsm-devel libedit-devel libuuid-devel"
 
 PACKAGES_OBSD="popt gmake wget libxml libogg libvorbis curl iksemel spandsp speex iodbc freetds-0.63p1-msdblib mysql-client gmime sqlite sqlite3 jack"
 
